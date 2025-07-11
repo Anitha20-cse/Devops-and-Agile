@@ -1,1 +1,14 @@
 Bitcoin is a decentralized digital currency that allows peer-to-peer transactions without the need for a central authority, such as a bank or government. It was introduced in 2008 by an anonymous individual or group using the pseudonym Satoshi Nakamoto.
+Key Features
+Decentralization: Operates on a peer-to-peer network of computers (nodes).
+
+Blockchain Technology: Transactions are recorded on a public ledger (the blockchain).
+
+Limited Supply: There will only ever be 21 million bitcoins.
+
+Mining: New bitcoins are created through a process called mining, where powerful computers solve complex problems.
+
+Pseudonymity: Users are identified by alphanumeric addresses, not names.
+
+Security: Based on cryptographic principles; once a transaction is confirmed, it's nearly impossible to alter.
+
