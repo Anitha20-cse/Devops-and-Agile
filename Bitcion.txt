@@ -11,4 +11,5 @@ Mining: New bitcoins are created through a process called mining, where powerful
 Pseudonymity: Users are identified by alphanumeric addresses, not names.
 
 Security: Based on cryptographic principles; once a transaction is confirmed, it's nearly impossible to alter.
+It is the Blockchain.
 
